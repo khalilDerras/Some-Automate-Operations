@@ -1,0 +1,2 @@
+# Some-Automate-Operations
+Console Application built with python to apply some operations on automate
