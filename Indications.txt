@@ -1,6 +1,0 @@
-vous trouverez l'éxécutable dans "executable.exe"
--vous pouvez entrer les données pour créer l'automate par console ou dans "fich.txt" en suivant le format spécifié
--il ya un exemple de remplissage de fichier "exemple de remplir le fichier.txt"
--les fonctions implémentés dans le tp:
-reconnaissance du mot avec le chemin (meme dans les automates non deterministes) , automate réduit , automate simple
-automate deterministe , automate complement , automate mirroir
