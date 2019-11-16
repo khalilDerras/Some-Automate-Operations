@@ -1,0 +1,22 @@
+Remarque:ne laisse pas des lignes vides aprés les données remplis
+Les états de l'automate:
+eg :s0,s1,s2,etat0,etat (dans la ligne suivante)
+s0,s1,s2
+L'alphabet de l'automate:
+eg:a,b,c(dans la ligne suivante)
+a,b,c
+Le nombre des transitions:
+eg:5(dans la ligne suivante)
+3
+Les transition:
+eg:s0,a,s1 ou s0,,s1(transition spontané) ou s0,ab,s1  (chaque transition dans une ligne )
+s0,a,s0
+s0,b,s1
+s1,c,s2
+Les etats finaux:
+eg:s1,s2 (dans la ligne suivante)
+s2,s1
+Les etats initiaux:
+eg:s0 (dans la ligne suivante)
+s0
+la_fin_de_remplissage
